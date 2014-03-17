@@ -1,0 +1,11 @@
+{
+  "require": {
+    "slim/slim": "2.*",
+    "guzzle/http": "3.8.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "": ["app/lib/", "vendor"]
+    }
+  }
+}

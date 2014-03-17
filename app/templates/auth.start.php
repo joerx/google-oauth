@@ -1,0 +1,1 @@
+<a href="<?php echo $auth_url ?>">Start Here!</a>
