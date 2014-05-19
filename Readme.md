@@ -6,13 +6,13 @@ About
 
 Just a simple manual implementation of 
 [Googles OAuth2](https://developers.google.com/accounts/docs/OAuth2Login) server 
-authentication flow. Deliverately not using any helper libraries to study the 
+authentication flow. Deliberately not using any helper libraries to study the 
 necessary HTTP interactions in detail.
 
 Built mostly using [Slim Framework](http://www.slimframework.com/) and 
 [Guzzle HTTP](http://guzzle.readthedocs.org/en/latest/)
 
-Intallation/Usage
+Installation/Usage
 -----------------
 
 ### Preconditions
@@ -31,7 +31,7 @@ Intallation/Usage
 
 ### Manual install in local server
  
- * Neither tested, not supported
+ * Neither tested nor supported
  * Deploy on your local Apache2
  * Server MUST use HTTPS for this as required by OAuth2
  * Modify config.dist.php as decribed above
